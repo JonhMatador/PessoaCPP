@@ -1,7 +1,7 @@
 #ifndef INFERIOR_H
 #define INFERIOR_H
 
-#include "PartesInferiores.h"
+#include "PartesInferiores.hpp"
 
 class Inferior {
 public:
