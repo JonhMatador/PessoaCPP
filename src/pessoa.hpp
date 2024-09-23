@@ -2,9 +2,9 @@
 #define PESSOA_H
 
 #include <string>
-#include "cabeca/Cabeca.h"
-#include "tronco/Tronco.h"
-#include "inferior/Inferior.h"
+#include "cabeca/Cabeca.hpp"
+#include "tronco/Tronco.hpp"
+#include "inferior/Inferior.hpp"
 
 class Pessoa {
 public:
