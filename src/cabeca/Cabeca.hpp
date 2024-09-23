@@ -1,9 +1,9 @@
 #ifndef CABECA_H
 #define CABECA_H
 
-#include "Olhos.h"
-#include "Boca.h"
-#include "Orelha.h"
+#include "Olhos.hpp"
+#include "Boca.hpp"
+#include "Orelha.hpp"
 
 class Cabeca {
 public:
